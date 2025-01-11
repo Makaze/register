@@ -1,0 +1,12 @@
+{
+  "description": "Porfolio and Blog",
+  "repo": "https://github.com/Makaze/makaze.github.io",
+  "owner": {
+    "username": "Makaze",
+    "email": "christopherslane.work@gmail.com",
+    "discord": "makaze"
+  },
+  "record": {
+    "CNAME": "makaze.github.io"
+  }
+}
